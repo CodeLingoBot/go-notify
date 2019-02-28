@@ -35,7 +35,7 @@ import (
 
 const E_NOT_FOUND = "E_NOT_FOUND"
 
-// returns the current version
+// Version returns the current version
 func Version() string {
 	return "0.2"
 }
